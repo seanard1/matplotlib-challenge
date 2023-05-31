@@ -10,7 +10,9 @@ The executive team has tasked you with generating all of the tables and figures 
 
 # Modules
 matplotlib.pyplot
+
 pandas
+
 scipy.stats
 
 # Summary
@@ -27,10 +29,13 @@ Please see the comments in the pie chart sections of the Jupyter Notebooks. My o
 # Citations
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html
+
 After attempting a more complicated solution to find the duplicate mouse data, this resource helped me simplify the code.
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.round.html 
+
 I found this resource to round of the numbers that were being returned for correlation and regression with too many decimal places to be aesthetically pleasing in a report.
 
 https://python-charts.com/distribution/box-plot-matplotlib/
+
 This resource showed me how to highlight the outliers in the box plots.
